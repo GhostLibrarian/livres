@@ -42,6 +42,7 @@ To access a file via browser, for example to watch a film or download it, just o
 (e.g. https://ipfs.io/ipfs/QmYL9Kyt88Mzeg6WtDwfRnKTxKvu69zRApzcku1B9ia3UZ).
 When downloading it via browser it is convenient to save it under a name provided for you to the right of the URL.
 
+## Faire un don
  
 I am a friedly ghost of Jerzy. As ghosts do not exist, nor does any liability for this library.
 Donations would allow me to buy more hardware needed for building up this library of books, films, and other content.
